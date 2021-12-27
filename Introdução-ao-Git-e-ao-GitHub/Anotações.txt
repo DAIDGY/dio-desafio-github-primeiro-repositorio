@@ -3,3 +3,10 @@ link para baixar o git:
 https://git-scm.com/downloads
 
 o Git bach é um terminal extendido para otimizar o uso do Git.
+
+____________________________________________________________________________
+
+Comando para clonagem de repositório.
+
+~$ git clone "link do repositório, copiado no GitHub"
+
